@@ -1,0 +1,2 @@
+build --action_env=BAZEL_CXXOPTS=-std=c++17 --compilation_mode=dbg
+test --test_output=all
